@@ -10,6 +10,7 @@ to add 5 to myVar.
 
 Since this is such a common pattern, there are operators which do both a mathematical operation and assignment in one step.
 
+
 One such operator is the += operator.
 
 let myVar = 1;
