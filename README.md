@@ -8,3 +8,4 @@ myVar = myVar + 5;
 
 to add 5 to myVar. 
 
+Since this is such a common pattern, there are operators which do both a mathematical operation and assignment in one step.
