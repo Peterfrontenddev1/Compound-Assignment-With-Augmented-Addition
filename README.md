@@ -17,7 +17,7 @@ One such operator is the += operator.
 
                           myVar += 5;
 
-console.log(myVar);
+                         console.log(myVar);
 
 6 would be displayed in the console.
 
