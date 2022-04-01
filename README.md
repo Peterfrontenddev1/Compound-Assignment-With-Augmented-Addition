@@ -12,3 +12,6 @@ Since this is such a common pattern, there are operators which do both a mathema
 
 One such operator is the += operator.
 
+let myVar = 1;
+myVar += 5;
+console.log(myVar);
