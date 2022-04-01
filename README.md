@@ -19,3 +19,4 @@ myVar += 5;
 console.log(myVar);
 
 6 would be displayed in the console.
+Convert the assignments for a, b, and c to use the += operator.
