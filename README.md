@@ -7,3 +7,4 @@ Remember that everything to the right of the equals sign is evaluated first, so 
 myVar = myVar + 5;
 
 to add 5 to myVar. 
+
