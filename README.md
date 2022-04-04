@@ -35,7 +35,7 @@ One such operator is the += operator.
 
                       a should equal 15.
 
-b should equal 26.
+                      b should equal 26.
 
 c should equal 19.
 
