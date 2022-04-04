@@ -33,7 +33,7 @@ One such operator is the += operator.
 
                       ANSWER
 
-a should equal 15.
+                      a should equal 15.
 
 b should equal 26.
 
