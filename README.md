@@ -19,7 +19,7 @@ One such operator is the += operator.
 
                          console.log(myVar);
 
-6 would be displayed in the console.
+                      6 would be displayed in the console.
 
                         QUESTION
 
