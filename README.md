@@ -24,6 +24,6 @@ One such operator is the += operator.
                         QUESTION
 
                       Convert the assignments for a, b, and c to use the += operator.
-let a = 3;
+                      let a = 3;
 let b = 17;
 let c = 12;
