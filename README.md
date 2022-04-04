@@ -32,3 +32,13 @@ One such operator is the += operator.
                       let c = 12;
 
                       ANSWER
+
+a should equal 15.
+
+b should equal 26.
+
+c should equal 19.
+
+You should use the += operator for each variable.
+
+You should not modify the code above the specified comment.
