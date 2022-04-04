@@ -35,10 +35,10 @@ One such operator is the += operator.
 
                       b should equal 26.
 
-c should equal 19.
+                      c should equal 19.
 
-You should use the += operator for each variable.
+                      You should use the += operator for each variable.
 
-You should not modify the code above the specified comment.
+                      You should not modify the code above the specified comment.
 
                        ANSWER
