@@ -31,8 +31,6 @@ One such operator is the += operator.
                       
                       let c = 12;
 
-                      ANSWER
-
                       a should equal 15.
 
                       b should equal 26.
